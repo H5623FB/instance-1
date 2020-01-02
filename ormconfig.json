@@ -1,0 +1,11 @@
+{
+  "type": "postgres",
+  "host": "bbpvkfgu69ln3iphfalz-postgresql.services.clever-cloud.com",
+  "port": 5432,
+  "username": "ubdktlnmpa9teqjcptpt",
+  "password": "wX8HfUnnHlBcuVT1lVp2",
+  "database": "bbpvkfgu69ln3iphfalz",
+  "synchronize": true,
+  "logging": false,
+  "entities": ["src/**/**.entity{.ts,.js}"]
+}
